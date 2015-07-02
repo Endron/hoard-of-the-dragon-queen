@@ -4,7 +4,7 @@ email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Our group trying to find there way throug the D&D 5th edition adventure
   "Hoard of the Dragon Queen".
-baseurl: "/hoard-of-the-dragon-queen/" # the subpath of your site, e.g. /blog/
+baseurl: "/hoard-of-the-dragon-queen" # the subpath of your site, e.g. /blog/
 url: "https://endron.github.io/" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  endron
