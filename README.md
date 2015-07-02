@@ -1,4 +1,4 @@
-# hoard-of-the-dragon-queen
+# hoard-of-the-dragon-queen [![Build Status](https://travis-ci.org/Endron/hoard-of-the-dragon-queen.svg)](https://travis-ci.org/Endron/hoard-of-the-dragon-queen)
 GitHub Pages Site for D&D 5th edition advanture "The Hoard of the Dragon Queen".
 This page is mainly a blog to rekord our adventure.
 
